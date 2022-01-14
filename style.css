@@ -1,7 +1,9 @@
 body {
-    background-image: url("backgroundimage.jpeg");
+
     background-size: cover;
     background-size: auto;
+    background-color: blueviolet;
+
   }
   
   .container {
